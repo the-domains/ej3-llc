@@ -1,0 +1,28 @@
+name: 'EJ3, LLC'
+favicon: null
+layout_spectrum: 0.34576722513884306
+typography_spectrum: 0.2172253297176212
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6460322218481451
+  lightness: 0.9195589406881481
+  saturation: 0.7663546339608729
+  rhythmicContrast: 0.4021844742819667
+purpose: []
